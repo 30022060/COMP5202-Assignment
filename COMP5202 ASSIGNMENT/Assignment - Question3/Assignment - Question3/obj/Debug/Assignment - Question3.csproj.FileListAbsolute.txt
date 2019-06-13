@@ -1,0 +1,7 @@
+C:\Users\liam_\Desktop\COMP5202 ASSIGNMENT\Assignment - Question3\Assignment - Question3\bin\Debug\Assignment - Question3.exe.config
+C:\Users\liam_\Desktop\COMP5202 ASSIGNMENT\Assignment - Question3\Assignment - Question3\bin\Debug\Assignment - Question3.exe
+C:\Users\liam_\Desktop\COMP5202 ASSIGNMENT\Assignment - Question3\Assignment - Question3\bin\Debug\Assignment - Question3.pdb
+C:\Users\liam_\Desktop\COMP5202 ASSIGNMENT\Assignment - Question3\Assignment - Question3\obj\Debug\Assignment - Question3.csprojAssemblyReference.cache
+C:\Users\liam_\Desktop\COMP5202 ASSIGNMENT\Assignment - Question3\Assignment - Question3\obj\Debug\Assignment - Question3.csproj.CoreCompileInputs.cache
+C:\Users\liam_\Desktop\COMP5202 ASSIGNMENT\Assignment - Question3\Assignment - Question3\obj\Debug\Assignment - Question3.exe
+C:\Users\liam_\Desktop\COMP5202 ASSIGNMENT\Assignment - Question3\Assignment - Question3\obj\Debug\Assignment - Question3.pdb
